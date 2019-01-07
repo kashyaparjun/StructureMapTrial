@@ -1,0 +1,9 @@
+C:\Users\arjun\Documents\Visual Studio 2017\Projects\StructuringAMap\StructuringAMap\bin\Debug\StructuringAMap.exe.config
+C:\Users\arjun\Documents\Visual Studio 2017\Projects\StructuringAMap\StructuringAMap\bin\Debug\StructuringAMap.exe
+C:\Users\arjun\Documents\Visual Studio 2017\Projects\StructuringAMap\StructuringAMap\bin\Debug\StructuringAMap.pdb
+C:\Users\arjun\Documents\Visual Studio 2017\Projects\StructuringAMap\StructuringAMap\bin\Debug\StructureMap.dll
+C:\Users\arjun\Documents\Visual Studio 2017\Projects\StructuringAMap\StructuringAMap\bin\Debug\StructureMap.xml
+C:\Users\arjun\Documents\Visual Studio 2017\Projects\StructuringAMap\StructuringAMap\obj\Debug\StructuringAMap.csprojResolveAssemblyReference.cache
+C:\Users\arjun\Documents\Visual Studio 2017\Projects\StructuringAMap\StructuringAMap\obj\Debug\StructuringAMap.csproj.CoreCompileInputs.cache
+C:\Users\arjun\Documents\Visual Studio 2017\Projects\StructuringAMap\StructuringAMap\obj\Debug\StructuringAMap.exe
+C:\Users\arjun\Documents\Visual Studio 2017\Projects\StructuringAMap\StructuringAMap\obj\Debug\StructuringAMap.pdb
